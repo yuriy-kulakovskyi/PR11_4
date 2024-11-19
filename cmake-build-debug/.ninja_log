@@ -1,0 +1,18 @@
+# ninja log v6
+1	369	1732015225611002134	CMakeFiles/PR11_4.dir/src/functions.cpp.o	a5f268162085febe
+3	496	1732015480676875515	CMakeFiles/PR11_4.dir/src/main.cpp.o	e1f7e7cb34c4c8c8
+4	502	1732015480677485732	CMakeFiles/PR11_4.dir/src/functions.cpp.o	a5f268162085febe
+502	537	1732015481176052402	PR11_4	69941142ebd69a59
+6	3346	1732015727302005091	CMakeFiles/PR11_4_tests.dir/src/functions.cpp.o	ec65b48a68d88f26
+6	3450	1732015727301598447	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	d301970ebc7bf25
+6	3479	1732015727301733356	CMakeFiles/PR11_4_tests.dir/tests/test_h.cpp.o	3cbf923addf58a75
+6	3533	1732015727302228787	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	dc5da2c0a5a0e993
+5	3830	1732015727301391666	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	9a1c42d5e066d94d
+4	4396	1732015727300103612	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	b63ec9d0430b5759
+4397	4501	1732015731692510065	lib/libgtest.a	b51b69e6de22023b
+4502	4520	1732015731797427088	lib/libgtest_main.a	ddd85a377c936fa9
+4501	4526	1732015731797210891	lib/libgmock.a	c8c98fe986cb389b
+4526	4542	1732015731822125605	lib/libgmock_main.a	c7b38932d055d06e
+4520	6477	1732015733770533268	PR11_4_tests	3f1ed2fede5f4050
+4520	6477	1732015733770533268	PR11_4_tests[1]_tests.cmake	3f1ed2fede5f4050
+4520	6477	1732015733770533268	/Users/yura_kulakovskyi/Documents/C++/AP/PR11/PR11_4/cmake-build-debug/PR11_4_tests[1]_tests.cmake	3f1ed2fede5f4050

@@ -1,0 +1,3 @@
+CompanyA ProductA 10.5
+CompanyB ProductB 20.0
+CompanyC ProductC 15.25
